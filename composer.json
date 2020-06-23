@@ -1,0 +1,29 @@
+{
+    "name": "dnsoftware/dnbilling",
+    "description": "Billing",
+    "type": "library",
+    "license": "MIT",
+    "version": "0.1.4",
+    "authors": [
+        {
+            "name": "dnsoftware",
+            "email": "ddaemon@mail.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Dnsoftware\\Dnbilling\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+
+            ],
+            "aliases": {
+
+            }
+        }
+    }
+}
