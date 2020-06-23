@@ -9,7 +9,7 @@ class Invoice
 
     public function addInvoice()
     {
-        dd('addinvoices__');
+        dd('addinvoices__2');
     }
 
 }
